@@ -1,0 +1,1 @@
+ruby -r "./lib/date_calculator.rb" -e "Date_Calculator.app()"
